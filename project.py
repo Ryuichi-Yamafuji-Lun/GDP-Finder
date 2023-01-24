@@ -1,6 +1,5 @@
 #GDP Finder Final Project for CS50 Python
 import sys
-import pandas as pd
 from pandas_datareader import wb
 
 def main():
